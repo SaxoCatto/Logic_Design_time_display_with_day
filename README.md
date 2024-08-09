@@ -4,7 +4,7 @@ This is the project for Digital Electronic (ET3220 - Điện Tử Số) at HUST.
 **Team's member:**<br>
 Đinh Quoc An<br>
 Bui Manh Huy<br>
-Nguyen The (Saxo Cat) Minh Quan<br>
+Me (Saxo Cat)<br>
 Tran Ba Thanh<br>
 Nguyen Minh Tuan<br>
 
